@@ -1345,10 +1345,11 @@ a:focus {
     background: #EF233C;
 }
 
-.contact .container-fluid {
+
+/* .contact .container-fluid {
     background: url(../img/contact.jpg) left center no-repeat;
     background-size: contain;
-}
+} */
 
 .contact .contact-form {
     position: relative;
@@ -1634,5 +1635,13 @@ a:focus {
 }
 
 .img-servicios {
+    max-width: 80%;
+}
+
+
+/* _________________
+ */
+
+.img-tarjeta {
     max-width: 80%;
 }
